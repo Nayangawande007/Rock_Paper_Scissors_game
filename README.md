@@ -6,5 +6,5 @@ Thechnology & Library used-
 4)html
 5)css
 6)bootstrap
-This is rock paper scissor game.you can playwith your firends to set up dispute.
+This is rock paper scissor game.you can play with your firends to set up dispute.
    
